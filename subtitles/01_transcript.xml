@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+<head>
+ 	<styling>
+		<style id="1" tts:fontFamily="Arial"/>
+		<style id="2" tts:textAlign="center"/>
+		<style id="3" tts:color="white"/>
+		<style id="4" tts:fontStyle="italic"/>
+		<style id="5" tts:fontSize="16"/>
+		<style id="6" tts:color="lime"/>
+		<style id="7" tts:color="yellow"/>
+		<style id="8" tts:color="red"/>
+		<style id="9" tts:backgroundColor="transparent"/>
+		<style id="G" style="1 2 6 5 9"/>
+		<style id="W" style="1 2 3 5 9"/>
+		<style id="Y" style="1 2 5 7 9"/>
+		<style id="italic" style="1 2 3 4 5 9"/>
+	</styling>
+</head>
+<body tts:textAlign="center">
+<div>
+<p begin="00:00:01.0" end="00:00:02.9" style="W">1st transcript subtitle line</p>
+<p begin="00:00:02.0" end="00:00:02.9" style="W">2nd transcript subtitle line</p>
+<p begin="00:00:03.0" end="00:00:12.9" style="Y">3rd transcript subtitle line</p>
+<p begin="00:00:07.0" end="00:00:12.9" style="G">4th transcript subtitle line</p>
+<p begin="00:00:13.0" end="00:00:14.9" style="Y">5th transcript subtitle line</p>
+</div>
+</body>
+</tt>

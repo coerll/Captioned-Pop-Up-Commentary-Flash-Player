@@ -1,0 +1,1 @@
+var1=Por&var2=Eng&status=ok

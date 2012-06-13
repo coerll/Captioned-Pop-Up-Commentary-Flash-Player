@@ -1,0 +1,48 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#222;
+	width:80%;
+	margin: 30px auto;
+	background:#dae5eb;
+}
+
+legend{
+	font:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+}
+
+fieldset{
+	margin:15px 0px 10px 15px;
+}
+
+#video{
+	width:100%;
+	padding: 0px auto;
+		
+}
+
+#spacer{
+	height:5px;
+}
+
+#footer{
+	width:100%;
+	padding: 0px auto;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#footer a{ color:#222;text-decoration:none; }
+#footer a:link{ color:#222;text-decoration:none; }
+#footer a:hover{ color:#666;text-decoration:none; }
+
+#footer .cc-license{
+	position: relative;
+	top: 3px;
+}
+
+#back{
+	float:right;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<captions>
+<p begin="001" video="sample_vid1.mp4" button="1" color="Y" track="1">button label sample_vid1</p>
+<p begin="001" video="sample_vid1.mp4" button="2" color="W" track="2">button label sample_vid2</p>
+<p begin="002" video="sample_vid1.mp4" button="1" color="G" track="3">button label sample_vid3</p>
+</captions>
